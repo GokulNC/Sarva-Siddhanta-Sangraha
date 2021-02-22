@@ -2,26 +2,28 @@
 
 A summary of discourses of various schools of Indian philosophies from the 7th century.
 
-[Wikipedia Article](https://en.wikipedia.org/wiki/Sarva-siddhanta_Sangraha)
+More details: [Wikipedia Article](https://en.wikipedia.org/wiki/Sarva-siddhanta_Sangraha)
 
 ## Contents
 
-0. [Introduction to Vedās](data/0-Introduction_to_Vedas.csv)
-1. [Lokāyata system](data/1-Lokayata.csv)
-2. [Ārhata system](data/2-Arhata.csv)
+(Check the [data](/data) folder for source files)
+
+0. [Introduction to Vedās](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/0-Introduction_to_Vedas.csv)
+1. [Lokāyata system](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/1-Lokayata.csv)
+2. [Ārhata system](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/2-Arhata.csv)
 3. Bauddhā system  
-3.1. [Mādhyamika](data/3.1-Madhyamika.csv)  
-3.2. [Yogācāra](data/3.2-Yogacara.csv)  
-3.3. [Sautrāntika](data/3.3-Sautrantika.csv)  
-3.4. [Vaibhāṣika](data/3.4-Vaibhashika.csv)  
-4. [Vaiśeṣika](data/4-Vaisesika.csv)  
-5. [Naiyāyika](data/5-Naiyayika.csv)  
-6. [Theory of Prabhākara](data/6-Prabhakara.csv)  
-7. [Theory of Bhaṭṭācārya](data/7-Kumara_Bhattacharya.csv)  
-8. [Kapila's Sāṅkhya](data/8-Kapila_Sankhya.csv)  
-9. [Patañjali YogaSūtra](data/9-Patanjali_Sankhya.csv)  
-10. [Veda-Vyāsa BrahmaSūtra](data/10-Vyasa.csv)  
-11. [Vedānta system](data/11-Vedanta.csv)
+3.1. [Mādhyamika philosophy](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/3.1-Madhyamika.csv)  
+3.2. [Yogācāra philosophy](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/3.2-Yogacara.csv)  
+3.3. [Sautrāntika philosophy](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/3.3-Sautrantika.csv)  
+3.4. [Vaibhāṣika philosophy](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/3.4-Vaibhashika.csv)  
+4. [Vaiśeṣika theology](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/4-Vaisesika.csv)  
+5. [Naiyāyika theology](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/5-Naiyayika.csv)  
+6. [Theory of Prabhākara](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/6-Prabhakara.csv)  
+7. [Theory of Bhaṭṭācārya](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/7-Kumara_Bhattacharya.csv)  
+8. [Kapila's Sāṅkhya](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/8-Kapila_Sankhya.csv)  
+9. [Patañjali YogaSūtra](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/9-Patanjali_Sankhya.csv)  
+10. [Veda-Vyāsa BrahmaSūtra](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/10-Vyasa.csv)  
+11. [Vedānta theory](https://narvidhai.github.io/Render-CSV-from-URL-to-HTML-Table?url=https://raw.githubusercontent.com/GokulNC/Sarva-Siddhanta-Sangraha/master/data/11-Vedanta.csv)
 
 ## Credits
 
@@ -33,6 +35,7 @@ A summary of discourses of various schools of Indian philosophies from the 7th c
 - Join sandhis in Devanagari
 - Word-level translation
 - Add explanations for each verse
+- Fix minor spelling mistakes if any
 
 Feel feel to contribute!
 
