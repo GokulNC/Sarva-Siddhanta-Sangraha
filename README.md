@@ -29,6 +29,7 @@ More details: [Wikipedia Article](https://en.wikipedia.org/wiki/Sarva-siddhanta_
 
 1. [Translations by Rangācārya](https://archive.org/details/in.ernet.dli.2015.408474/)
 2. [Transliterations from Gaudiya Grantha Mandira](http://grantha.jiva.org/index.php?show=entry&e_no=745)
+3. [AksharaMukha for Devanagari conversion](http://aksharamukha.appspot.com/)
 
 ## ToDo
 
